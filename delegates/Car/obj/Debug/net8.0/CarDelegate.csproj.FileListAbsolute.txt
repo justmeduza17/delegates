@@ -1,0 +1,15 @@
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\bin\Debug\net8.0\CarDelegate.exe
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\bin\Debug\net8.0\CarDelegate.deps.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\bin\Debug\net8.0\CarDelegate.runtimeconfig.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\bin\Debug\net8.0\CarDelegate.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\bin\Debug\net8.0\CarDelegate.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.AssemblyInfoInputs.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.AssemblyInfo.cs
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.csproj.CoreCompileInputs.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.sourcelink.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\refint\CarDelegate.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\CarDelegate.genruntimeconfig.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarDelegate\obj\Debug\net8.0\ref\CarDelegate.dll

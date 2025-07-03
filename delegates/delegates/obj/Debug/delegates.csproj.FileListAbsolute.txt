@@ -1,0 +1,8 @@
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\bin\Debug\delegates.exe.config
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\bin\Debug\delegates.exe
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\bin\Debug\delegates.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\obj\Debug\delegates.csproj.AssemblyReference.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\obj\Debug\delegates.exe
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\obj\Debug\delegates.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\delegates\obj\Debug\delegates.exe.config

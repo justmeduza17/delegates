@@ -1,0 +1,15 @@
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\bin\Debug\net8.0\GenericDelegate.exe
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\bin\Debug\net8.0\GenericDelegate.deps.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\bin\Debug\net8.0\GenericDelegate.runtimeconfig.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\bin\Debug\net8.0\GenericDelegate.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\bin\Debug\net8.0\GenericDelegate.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfoInputs.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.AssemblyInfo.cs
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.csproj.CoreCompileInputs.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.sourcelink.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\refint\GenericDelegate.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\GenericDelegate.genruntimeconfig.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\GenericDelegate\obj\Debug\net8.0\ref\GenericDelegate.dll
