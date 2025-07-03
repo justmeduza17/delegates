@@ -1,0 +1,14 @@
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\bin\Debug\net8.0\CarEvents.exe
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\bin\Debug\net8.0\CarEvents.deps.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\bin\Debug\net8.0\CarEvents.runtimeconfig.json
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\bin\Debug\net8.0\CarEvents.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\bin\Debug\net8.0\CarEvents.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\CarEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\CarEvents.AssemblyInfoInputs.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\CarEvents.AssemblyInfo.cs
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\CarEvents.csproj.CoreCompileInputs.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\CarEvents.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\refint\CarEvents.dll
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\CarEvents.pdb
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\CarEvents.genruntimeconfig.cache
+D:\ITSTEP\C#\homework\08.06\delegates\delegates\CarEvents\obj\Debug\net8.0\ref\CarEvents.dll

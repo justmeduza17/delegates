@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\ITSTEP\\C#\\homework\\08.06\\delegates\\delegates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB0AF56C-C6FF-4487-BF7D-D5208BC615A9}|CarDelegate\\CarDelegate.csproj|d:\\itstep\\c#\\homework\\08.06\\delegates\\delegates\\cardelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB0AF56C-C6FF-4487-BF7D-D5208BC615A9}|CarDelegate\\CarDelegate.csproj|solutionrelative:cardelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8436FADD-D223-4762-99F8-7C2371F22B2F}|CarEvents\\CarEvents.csproj|d:\\itstep\\c#\\homework\\08.06\\delegates\\delegates\\carevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8436FADD-D223-4762-99F8-7C2371F22B2F}|CarEvents\\CarEvents.csproj|solutionrelative:carevents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB0AF56C-C6FF-4487-BF7D-D5208BC615A9}|CarDelegate\\CarDelegate.csproj|d:\\itstep\\c#\\homework\\08.06\\delegates\\delegates\\cardelegate\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB0AF56C-C6FF-4487-BF7D-D5208BC615A9}|CarDelegate\\CarDelegate.csproj|solutionrelative:cardelegate\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0AF56C-C6FF-4487-BF7D-D5208BC615A9}|CarDelegate\\CarDelegate.csproj|d:\\itstep\\c#\\homework\\08.06\\delegates\\delegates\\cardelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0AF56C-C6FF-4487-BF7D-D5208BC615A9}|CarDelegate\\CarDelegate.csproj|solutionrelative:cardelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8405FD32-4781-40F6-86CB-28C0BB9AAE4C}|GenericDelegate\\GenericDelegate.csproj|d:\\itstep\\c#\\homework\\08.06\\delegates\\delegates\\genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +34,32 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITSTEP\\C#\\homework\\08.06\\delegates\\delegates\\CarEvents\\Program.cs",
+              "RelativeDocumentMoniker": "CarEvents\\Program.cs",
+              "ToolTip": "D:\\ITSTEP\\C#\\homework\\08.06\\delegates\\delegates\\CarEvents\\Program.cs",
+              "RelativeToolTip": "CarEvents\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAjwC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:51:06.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITSTEP\\C#\\homework\\08.06\\delegates\\delegates\\GenericDelegate\\Program.cs",
               "RelativeDocumentMoniker": "GenericDelegate\\Program.cs",
@@ -42,8 +67,7 @@
               "RelativeToolTip": "GenericDelegate\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T15:17:19.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T15:17:19.333Z"
             },
             {
               "$type": "Document",
@@ -53,14 +77,14 @@
               "RelativeDocumentMoniker": "CarDelegate\\Car.cs",
               "ToolTip": "D:\\ITSTEP\\C#\\homework\\08.06\\delegates\\delegates\\CarDelegate\\Car.cs",
               "RelativeToolTip": "CarDelegate\\Car.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T14:44:41.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITSTEP\\C#\\homework\\08.06\\delegates\\delegates\\CarDelegate\\Program.cs",
               "RelativeDocumentMoniker": "CarDelegate\\Program.cs",
@@ -72,16 +96,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ITSTEP\\C#\\homework\\08.06\\delegates\\delegates\\delegates\\Program.cs",
               "RelativeDocumentMoniker": "delegates\\Program.cs",
@@ -89,8 +105,7 @@
               "RelativeToolTip": "delegates\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T07:10:27.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T07:10:27.445Z"
             }
           ]
         }
